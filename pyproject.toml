@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "py-web-hw12"
+version = "0.1.0"
+description = "HW 12 python web"
+authors = ["Artem Dorofeev <130536391+artem-dorofeev@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-jose = "^3.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
